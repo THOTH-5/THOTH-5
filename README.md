@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pravan Khandelwal</h1>
+<h1 align="center">Hi, I'm Pravan Khandelwal</h1>
 <h3 align="center">Software Developer</h3>
 
 - 📫 How to reach me **khandelwal.pravan@gmail.com**
